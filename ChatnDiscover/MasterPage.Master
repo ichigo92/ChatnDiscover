@@ -1,6 +1,4 @@
-﻿<!--
-Created by Hafiz Faheem Sultan and Abdul Fatir
--->
+﻿<!--Created by Hafiz Faheem Sultan and Abdul Fatir-->
 <%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="ChatnDiscover.MasterPage" %>
 
 <!DOCTYPE html>
