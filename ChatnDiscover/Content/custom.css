@@ -6,6 +6,12 @@
     text-rendering: optimizelegibility;
 }
 
+body.modal-open {
+     overflow:inherit; 
+     padding-right:inherit !important; 
+
+}
+
 .custom_font {
     font-family:'Permanent Marker','sans-serif';
     /*font-size:20px;*/
